@@ -1,0 +1,130 @@
+[
+    {
+        "id": "0",
+        "description": "Music Clip is a live web page that helps you find information about music artists, listen to their songs, look at their published works, and their biographies. ",
+        "link": "https://github.com/calcomsci/Clone-Music-Clip",
+        "place": "Earth",
+        "projectType": "star-fleet-academy",
+        "deployedUrl": "https://calcomsci.github.io/Clone-Music-Clip/",
+        "githubUrl": "https://github.com/calcomsci/Clone-Music-Clip",
+        "tags": [
+            "project"
+        ],
+
+        
+        "title": "Music Clip",
+        "image": "https://github.com/calcomsci/react-portfolio-updated/blob/main/src/components/Portfolio/images/music%20clip.png?raw=true"
+    },
+    {
+        "id": "1",
+        "description": "Every front end software developer should know how to fix links, typos, optimize web pages, and other things in HTML! This is a demo of a fixed HTML page.",
+        "link": "https://github.com/calcomsci/fixed-seo-page-repo",
+        "place": "Earth",
+        "deployedUrl": "https://github.com/calcomsci/fixed-seo-page-repo",
+        "githubUrl": "https://github.com/calcomsci/fixed-seo-page-repo",
+        "projectType": "personal",
+        "tags": [
+            "project"
+        ],
+        "title": "Search Engine Optimization Page Fix",
+        "image": "https://github.com/calcomsci/react-portfolio-updated/blob/main/src/components/Portfolio/images/fixed%20seo%20page.png?raw=true"
+    },
+    {
+        "id": "3",
+        "description": "Team Contact Generator is an Inquirer and Node.js app that curates a contact list for your team. You can add engineers, interns, and managers' contacts. This requires Visual Studio Code, and Node.js installed to run.",
+        "link": "https://github.com/calcomsci/Team-Contact-Generator",
+        "place": "Earth",
+        "deployedUrl": "https://github.com/calcomsci/Team-Contact-Generator",
+        "githubUrl": "https://github.com/calcomsci/Team-Contact-Generator",
+        "projectType": "personal",
+        "tags": [
+            "project"
+        ],
+        "title": "Team Contact Generator",
+        "image": "https://github.com/calcomsci/react-portfolio-updated/blob/main/src/components/Portfolio/images/team-generator.png?raw=true"
+    },
+    {
+        "id": "4",
+        "description": "README Generator is a web app that creates a README Generator for you. Every great Github repository demands a README file! You should install Visual Studio Code and node.js for this app.",
+        "link": "https://github.com/calcomsci/README-generator",
+        "place": "Earth",
+        "deployedUrl": "https://github.com/calcomsci/README-generator",
+        "githubUrl": "https://github.com/calcomsci/README-generator",
+        "projectType": "personal",
+        "tags": [
+            "project"
+        ],
+        "title": "README generator",
+        "image": "https://github.com/calcomsci/react-portfolio-updated/blob/main/src/components/Portfolio/images/readme-generator.png?raw=true"
+    },
+    {
+        "id": "5",
+        "description": "Weather Dashboard is a live web page that finds the weather in cities.",
+        "link": "https://github.com/calcomsci/Weather-Dashboard",
+        "place": "Earth",
+        "deployedUrl": "https://calcomsci.github.io/Weather-Dashboard/",
+        "githubUrl": "https://github.com/calcomsci/Weather-Dashboard",
+        "projectType": "personal",
+        "tags": [
+            "project"
+        ],
+        "title": "Weather Dashboard",
+        "image": "https://github.com/calcomsci/react-portfolio-updated/blob/main/src/components/Portfolio/images/weather%20dashboard.png?raw=true"
+    },
+    {
+        "id": "6",
+        "description": "Do you want to test your knowledge in JavaScript? You can take this quiz and find out how much you know about JavaScript!",
+        "link": "https://github.com/calcomsci/javascript-quiz-challenge",
+        "place": "Earth",
+        "deployedUrl": "https://calcomsci.github.io/javascript-quiz-challenge/",
+        "githubUrl": "https://github.com/calcomsci/javascript-quiz-challenge",
+        "projectType": "personal",
+        "tags": [
+            "project"
+        ],
+        "title": "JavaScript Knowledge Test",
+        "image": "https://github.com/calcomsci/react-portfolio-updated/blob/main/src/components/Portfolio/images/javascript-quiz.png?raw=true"
+    },
+    {
+        "id": "7",
+        "description": "The Password Generator is a web app that helps you create a secure password, up to 64 characters!",
+        "link": "https://github.com/calcomsci/pass-generator.github.io",
+        "place": "Earth",
+        "deployedUrl": "https://calcomsci.github.io/pass-generator.github.io/",
+        "githubUrl": "https://github.com/calcomsci/pass-generator.github.io",
+        "projectType": "personal",
+        "tags": [
+            "project"
+        ],
+        "title": "Password Generator",
+        "image": "https://github.com/calcomsci/react-portfolio-updated/blob/main/src/components/Portfolio/images/password-generator.png?raw=true"
+    },
+    {
+        "id": "8",
+        "description": "This is a web page I created to plan a work day from 9am to 5pm.",
+        "link": "https://github.com/calcomsci/work_scheduler",
+        "place": "Earth",
+        "deployedUrl": "https://calcomsci.github.io/work_scheduler/",
+        "githubUrl": "https://github.com/calcomsci/work_scheduler",
+        "projectType": "personal",
+        "tags": [
+            "project"
+        ],
+        "title": "Work Day Scheduler",
+        "image": "https://github.com/calcomsci/react-portfolio-updated/blob/main/src/components/Portfolio/images/work-day-scheduler.png?raw=true"
+    },
+    {
+        "id": "9",
+        "description": "Book Worm is a web app that helps you find authors and books",
+        "link": "https://github.com/calcomsci/bookworm-clone",
+        "place": "Earth",
+        "deployedUrl": "https://bookworm-clone-hector.netlify.app/",
+        "githubUrl": "https://github.com/calcomsci/bookworm-clone",
+        "projectType": "personal",
+        "tags": [
+            "project"
+        ],
+        "title": "Book Worm",
+        "image": "https://github.com/calcomsci/bookworm-clone/blob/main/bookworm-app-screenshot.png?raw=true"
+    }
+]

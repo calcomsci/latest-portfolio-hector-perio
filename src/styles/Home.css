@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+
+.spock-headshot{
+  display: block;
+  margin: 20px;
+  width: 20%;
+  background-color: transparent;
+  font-family:Arial, Helvetica, sans-serif;
+  text-align:center
+}
+
+.contact-list{
+    display: flex;
+    justify-content: space-around;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center
+}
+
+.home-container{
+    display: flex;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center
+    /* flex-wrap: wrap; */
+}
+
+.bio-text{
+    margin: 10px;
+    width: 50vw;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center
+}
+
+.contact-list{
+    margin-top: 10vh;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center
+}
