@@ -18,8 +18,6 @@ const Home = () => {
 
 I also have passion for competitive gaming and e-sports. Many of us in the computer science field were taught to make logic-based games like chess, scrabble, and snakes and ladders. Those made a lasting impression on me.
 
-Currently, I play League of Legends and World of Warcraft when I have the time. In the past, I've played Hearthstone, Chess, and Street Fighter. Sometimes, I will watch the top professionals to keep up with the scenes in these games/titles.
-
 Last, but certainly not least, I like to cycle for commute and leisure to minimize my carbon footprint, and use vehicles free from fossil fuels. I try to make this world a better place than when I found it when I get the chance.</p>
             </div>
 
